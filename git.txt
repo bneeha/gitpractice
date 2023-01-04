@@ -1,0 +1,11 @@
+vcs-
+-coding repository-integrating the code coming from all the team members
+-preserving older versions also
+-keeping the track of who is making what kind of changes
+
+types:
+centralised
+distributed
+
+centralised-each team member creates code and upload in the remote server
+distributed-each team member push the ode in to local repository in the local machine,and then pushes in to repository(remote server)
